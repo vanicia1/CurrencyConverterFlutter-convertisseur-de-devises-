@@ -1,2 +1,16 @@
-# CurrencyConverterFlutter-convertisseur-de-devises-
-Convertisseur de devises Dollar -> Roupie, développé avec Flutter et Dart. Cette application permet de convertir facilement des dollars américains (USD) en roupies indiennes (INR) selon un taux de change fixe.
+# currency_converter
+
+A  Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
